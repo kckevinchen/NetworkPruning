@@ -1,0 +1,1 @@
+https://conda.anaconda.org/pytorch/linux-64/ignite-0.1.2-py37_0.tar.bz2
